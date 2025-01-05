@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux",
+	"dir-cur-src" : "/home/test/Downloads/OOS1 Labor 14 (2)",
+	"dir-top-bld" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux",
+	"dir-top-src" : "/home/test/Downloads/OOS1 Labor 14 (2)",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/home/test/Downloads/OOS1 Labor 14 (2)/build/linux/CMakeFiles/Labor14.dir"
+	],
+	"module-dir" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux/CMakeFiles/Labor14module.dir"
+}

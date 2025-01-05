@@ -1,0 +1,3 @@
+-x c++-module
+-fmodule-output=CMakeFiles/Labor14.dir/Worker.pcm
+-fmodule-file=Employee=CMakeFiles/Labor14.dir/Employee.pcm

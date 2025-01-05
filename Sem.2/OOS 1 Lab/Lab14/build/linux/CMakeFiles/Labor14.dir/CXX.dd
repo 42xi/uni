@@ -1,0 +1,10 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/Labor14.dir/Employee.cpp.o | CMakeFiles/Labor14.dir/Employee.pcm: dyndep
+  restat = 1
+
+build CMakeFiles/Labor14.dir/Manager.cpp.o | CMakeFiles/Labor14.dir/Manager.pcm: dyndep | CMakeFiles/Labor14.dir/Employee.pcm
+  restat = 1
+
+build CMakeFiles/Labor14.dir/Worker.cpp.o | CMakeFiles/Labor14.dir/Worker.pcm: dyndep | CMakeFiles/Labor14.dir/Employee.pcm
+  restat = 1
+

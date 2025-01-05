@@ -1,0 +1,17 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/Labor14module.dir/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Manager"
+        },
+        {
+          "logical-name": "Worker"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

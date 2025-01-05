@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/Labor14.dir/Worker.cpp.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Worker",
+          "source-path": "/home/test/Downloads/OOS1 Labor 14 (2)/Worker.cpp"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Employee"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

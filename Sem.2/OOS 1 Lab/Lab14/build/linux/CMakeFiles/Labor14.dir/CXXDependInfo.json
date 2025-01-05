@@ -1,0 +1,50 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/Labor14.dir/Employee.cpp.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/test/Downloads/OOS1 Labor 14 (2)/Employee.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/Labor14.dir/Manager.cpp.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/test/Downloads/OOS1 Labor 14 (2)/Manager.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/Labor14.dir/Worker.cpp.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "CXX_MODULES",
+			"relative-directory" : "",
+			"source" : "/home/test/Downloads/OOS1 Labor 14 (2)/Worker.cpp",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"dir-cur-bld" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux",
+	"dir-cur-src" : "/home/test/Downloads/OOS1 Labor 14 (2)",
+	"dir-top-bld" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux",
+	"dir-top-src" : "/home/test/Downloads/OOS1 Labor 14 (2)",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux/CMakeFiles/Labor14.dir"
+}

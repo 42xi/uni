@@ -1,0 +1,32 @@
+{
+	"modules" : {},
+	"references" : 
+	{
+		"Employee" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Labor14.dir/Employee.pcm"
+		},
+		"Manager" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Labor14.dir/Manager.pcm"
+		},
+		"Worker" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Labor14.dir/Worker.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"Manager" : 
+		[
+			"Employee"
+		],
+		"Worker" : 
+		[
+			"Employee"
+		]
+	}
+}

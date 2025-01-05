@@ -1,0 +1,49 @@
+{
+	"modules" : 
+	{
+		"Employee" : 
+		{
+			"bmi" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux/CMakeFiles/Labor14.dir/Employee.pcm",
+			"is-private" : false
+		},
+		"Manager" : 
+		{
+			"bmi" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux/CMakeFiles/Labor14.dir/Manager.pcm",
+			"is-private" : false
+		},
+		"Worker" : 
+		{
+			"bmi" : "/home/test/Downloads/OOS1 Labor 14 (2)/build/linux/CMakeFiles/Labor14.dir/Worker.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"Employee" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Labor14.dir/Employee.pcm"
+		},
+		"Manager" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Labor14.dir/Manager.pcm"
+		},
+		"Worker" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/Labor14.dir/Worker.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"Manager" : 
+		[
+			"Employee"
+		],
+		"Worker" : 
+		[
+			"Employee"
+		]
+	}
+}
